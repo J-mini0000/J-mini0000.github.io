@@ -13,22 +13,20 @@ author: ParkYoungJun
 externalLink: false
 ---
 
+
  > ## AI projct
-  - [아동 감정 사전 구축 및 텍스트 마이닝 기반 아동 감정 분석(개발중)][5]
-
+  - [웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템][1]
+  - [공동 AI 경진대회 제출 코드][2]
  > ## DataBase
-  - [릴레이소설][2]
+  - [체험농장 예약시스템][3]
+  - [도서 판매 사이트][4]
+  - [우리동네식당][5]
 
- > ## Android
-  - [NFC 출입관리 서비스][3]
-  - [스케줄 관리][4]
 
- > ## C 프로젝트   
- - [백준 알고리즘][1]   
-
-[1]:https://github.com/Park-youngjun/BAEKJOON
-[2]:https://github.com/Park-youngjun/DB
-[3]:https://github.com/Park-youngjun/AndroidProject-B.SORI
-[4]:https://github.com/Park-youngjun/Android
-[5]:https://park-youngjun.github.io/%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EC%82%AC%EC%A0%84_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EB%B6%84%EC%84%9D/
-[6]:a
+[1]:https://park-youngjun.github.io/%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EC%82%AC%EC%A0%84_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EB%B6%84%EC%84%9D/
+[2]:https://github.com/J-mini0000/public-AI-contest
+[3]:https://github.com/J-mini0000/FarmRSV
+[4]:https://github.com/J-mini0000/book-sales-site
+[5]:https://github.com/J-mini0000/uridong
+[6]:
+[7]:
