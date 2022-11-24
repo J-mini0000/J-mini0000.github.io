@@ -29,5 +29,5 @@ externalLink: false
 [3]:https://github.com/J-mini0000/uridong
 [4]:https://github.com/J-mini0000/FarmRSV
 [5]:https://github.com/J-mini0000/book-sales-site
-[6]:
-[7]:
+<!-- [6]:
+[7]: -->
