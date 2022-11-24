@@ -10,18 +10,14 @@ author: ChoiJaeMin
 description: 
 ---
 > ## 활동 내역     
-
- - [[한국 사회 보장 정보원] 사회보장유레카 2022 창업경진대회 - 노인 일자리 창출 및 고독사 예방을 위한 노노케어 매칭 시스템 - 입선  (2022-04-04 ~ 2022-07-07)](https://park-youngjun.github.io/%EC%82%AC%ED%9A%8C%EB%B3%B4%EC%9E%A5%EC%9C%A0%EB%A0%88%EC%B9%B4-2022-%EC%B0%BD%EC%97%85%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/)
-  
-
- - [2022 국방 데이터 활용 경진대회 참가 - 오운완!](https://park-youngjun.github.io/%EA%B5%AD%EB%B0%A9-%EB%8D%B0%EC%9D%B4%ED%84%B0-%ED%99%9C%EC%9A%A9-%EA%B2%BD%EC%A7%84%EB%8C%80%ED%9A%8C/)
+ - [2022학년도 학술엑스포] 컴퓨터공학계열 학술엑스포 장려상
+ ![jangryu](/assets/images/jangryu.jpg)
 
  - [2022 한국통신학회 하계종합학술발표회 포스터 부문 참여 (웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템) (2022-06-22 ~ 06-24)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108398)
 
  - 2022 동서 AI·SW 아이디어 경진대회 알감자 (2022-05~2022-06)
 
  - 2021 동서인 AI·SW 창업동아리 코딱지(코디를 딱 정해주지!) (2021-02-22 ~ 2021-11-30) 
-
 
  - SW-TC 튜터링 (2017-03-20 ~ 06-21)
 
