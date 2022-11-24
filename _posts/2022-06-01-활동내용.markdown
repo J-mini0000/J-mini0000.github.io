@@ -6,7 +6,7 @@ image: /assets/images/markdown.jpg
 headerImage: false
 tag: 
 category: blog
-author: ParkYoungJun
+author: ChoiJaeMin
 description: 
 ---
 > ## 활동 내역     

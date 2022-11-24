@@ -9,7 +9,7 @@ headerImage: false
 # - elements
 # star: true
 category: blog
-author: ParkYoungJun
+author: ChoiJaeMin
 description:
 ---
 > ## 수상 내역 

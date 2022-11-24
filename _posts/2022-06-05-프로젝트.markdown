@@ -27,7 +27,7 @@ externalLink: false
   
 
 
-[1]:https://park-youngjun.github.io/%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EC%82%AC%EC%A0%84_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EB%B6%84%EC%84%9D/
+[1]:https://github.com/J-mini0000/search-rare-disease
 [2]:https://github.com/J-mini0000/public-AI-contest
 [3]:https://github.com/J-mini0000/uridong
 [4]:https://github.com/J-mini0000/FarmRSV
