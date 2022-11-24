@@ -9,7 +9,7 @@ projects: true
 hidden: true # don't count this post in blog pagination
 # description: "This is a simple and minimalist template for Jekyll for those who likes to eat noodles."
 category: project
-author: ParkYoungJun
+author: ChoiJaeMin
 externalLink: false
 ---
 
@@ -18,15 +18,16 @@ externalLink: false
   - [웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템][1]
   - [공동 AI 경진대회 제출 코드][2]
  > ## DataBase
-  - [체험농장 예약시스템][3]
-  - [도서 판매 사이트][4]
-  - [우리동네식당][5]
+  - [우리동네식당][3]
+  - [체험농장 예약시스템][4]
+  - [도서 판매 사이트][5]
+  
 
 
 [1]:https://park-youngjun.github.io/%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EC%82%AC%EC%A0%84_%EA%B5%AC%EC%B6%95_%EB%B0%8F_%EC%95%84%EB%8F%99_%EA%B0%90%EC%A0%95_%EB%B6%84%EC%84%9D/
 [2]:https://github.com/J-mini0000/public-AI-contest
-[3]:https://github.com/J-mini0000/FarmRSV
-[4]:https://github.com/J-mini0000/book-sales-site
-[5]:https://github.com/J-mini0000/uridong
+[3]:https://github.com/J-mini0000/uridong
+[4]:https://github.com/J-mini0000/FarmRSV
+[5]:https://github.com/J-mini0000/book-sales-site
 [6]:
 [7]:
