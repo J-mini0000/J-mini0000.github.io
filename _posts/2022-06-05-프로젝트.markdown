@@ -16,7 +16,7 @@ externalLink: false
 
  > ## AI projct
   - [웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템][1]
-  - ![slide1](https://user-images.githubusercontent.com/80562425/203768246-25314c5d-afae-42b3-bab7-a983d80843fc.png)
+  - ![slide1][6](https://user-images.githubusercontent.com/80562425/203768246-25314c5d-afae-42b3-bab7-a983d80843fc.png)
   - [공동 AI 경진대회 제출 코드][2]
 
   
@@ -32,5 +32,4 @@ externalLink: false
 [3]:https://github.com/J-mini0000/uridong
 [4]:https://github.com/J-mini0000/FarmRSV
 [5]:https://github.com/J-mini0000/book-sales-site
-<!-- [6]:
-[7]: -->
+[6]:https://j-mini0000.github.io/
