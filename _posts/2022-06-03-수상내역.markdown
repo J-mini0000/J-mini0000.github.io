@@ -8,7 +8,7 @@ headerImage: false
 # - markdown
 # - elements
 # star: true
-category: blog
+category: 
 author: ChoiJaeMin
 description:
 ---
