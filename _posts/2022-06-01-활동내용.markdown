@@ -9,8 +9,9 @@ category: blog
 author: ChoiJaeMin
 description: 
 ---
-> ## 활동 내역     
- - [2022학년도 학술엑스포] 컴퓨터공학계열 학술엑스포 장려상
+> ## 활동 내역      
+
+ - [2022학년도 학술엑스포] 컴퓨터공학계열 학술엑스포 장려상  
  ![jangryu](/assets/images/jangryu.jpg)
 
  - [2022 한국통신학회 하계종합학술발표회 포스터 부문 참여 (웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템) (2022-06-22 ~ 06-24)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108398)  
