@@ -10,11 +10,11 @@ author: ChoiJaeMin
 description: 
 ---
 > ## 활동 내역     
- 
  - [2022학년도 학술엑스포] 컴퓨터공학계열 학술엑스포 장려상
  ![jangryu](/assets/images/jangryu.jpg)
 
- - [2022 한국통신학회 하계종합학술발표회 포스터 부문 참여 (웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템) (2022-06-22 ~ 06-24)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108398)
+ - [2022 한국통신학회 하계종합학술발표회 포스터 부문 참여 (웹 크롤링 및 텍스트 마이닝을 활용한 희귀질환 조기 발견 보조시스템) (2022-06-22 ~ 06-24)](https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE11108398)  
+ ![단체사진](/assets/images/2022_%ED%95%9C%EA%B5%AD%ED%86%B5%EC%8B%A0%ED%95%99%ED%9A%8C_%ED%95%98%EA%B3%84%EC%A2%85%ED%95%A9%ED%95%99%EC%88%A0%EB%B0%9C%ED%91%9C%ED%9A%8C_%EC%97%B0%EA%B5%AC%EC%8B%A4_%EB%8B%A8%EC%B2%B4%EC%82%AC%EC%A7%84.jpg)
 
  - 2022 동서 AI·SW 아이디어 경진대회 알감자 (2022-05~2022-06)
 
